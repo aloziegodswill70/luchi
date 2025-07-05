@@ -74,8 +74,8 @@ export default function PaymentSuccessPage() {
       {/* Already Pro */}
       {alreadyPro && (
         <p className="text-lg text-blue-700 font-bold">
-          👑 You're already a Pro user — no need to upgrade again.
-        </p>
+         You&apos;re already a Pro user — no need to upgrade again.
+       </p>
       )}
 
       {/* Error */}
